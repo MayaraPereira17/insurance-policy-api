@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Folder Name="/src/">
+    <Project Path="src/InsurancePolicy.Api/InsurancePolicy.Api.csproj" />
+    <Project Path="src/InsurancePolicy.Application/InsurancePolicy.Application.csproj" />
+    <Project Path="src/InsurancePolicy.Domain/InsurancePolicy.Domain.csproj" />
+    <Project Path="src/InsurancePolicy.Infrastructure/InsurancePolicy.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/InsurancePolicy.Tests/InsurancePolicy.Tests.csproj" />
+  </Folder>
+</Solution>
