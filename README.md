@@ -1,6 +1,6 @@
 # API de apólice de seguro automóvel
 
-API REST para gerenciamento de apólices de seguro automóvel, desenvolvida como parte do hands-on **Desenvolvedor(a) Jr — Segfy**.
+API REST para gerenciamento de apólices de seguro automóvel.
 
 A aplicação permite cadastrar, consultar, atualizar e remover apólices, com persistência em SQLite e consulta SQL de apólices que vencem nos próximos 30 dias.
 
